@@ -1,0 +1,15 @@
+TASK 7
+
+Objective: : Learn to spot and remove potentially harmful browser extensions.
+Tools: Any web browser (Chrome).
+Deliverables: List of suspicious extensions found and removed.
+Key concepts: Browser security, extensions, permissions, malware, security best practices.
+
+The installed extension in my computer is Google Docs Offline.
+Details--> Permissions--> No external permissions required for this extension.
+
+
+No other suspicious extensions found!
+
+Many browser extensions request broad permissions. If abused, they can compromise user privacy. Some of these include accessing browsing history and monitoring keystrokes. Certain extensions may overstep their intended functionality. This can lead to the unauthorized collection of sensitive information.
+
